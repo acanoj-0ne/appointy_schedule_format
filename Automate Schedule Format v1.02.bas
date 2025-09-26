@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module11"
+Attribute VB_Name = "modAutomateScheduleFormat"
 'Program: Automate Schedule Format'
 'Developed by Alejandro Cano'
 'Date: 9/22/2025'
