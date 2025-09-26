@@ -44,7 +44,7 @@ Sub SEPARATE_TIME()
 End Sub
 
 'main'
-Sub AutomateScheduleFormat_main()
+Sub AutomateScheduleFormat()
 Dim i, j, k As Integer
 Dim emptyflag As Boolean
 Dim locationHandle As String
